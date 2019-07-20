@@ -5,32 +5,32 @@
    "buttons" :
    [ 
      {
-       "title" : "https://play.google.com/store/apps/details?id=io.faceapp",
-       "image" : "https://pbs.twimg.com/profile_images/827533028700385280/0WmhDJjq_400x400.jpg"
+       "title" : "",
+       "image" : ""
      },
      {
-       "title" : "https://play.google.com/store/apps/details?id=com.tencent.ig",
-       "image" : "https://smedia2.intoday.in/btmt/images/stories/pub_660x450_010219045955.jpg"
+       "title" : "",
+       "image" : ""
      },
      {
-       "title" : "https://play.google.com/store/apps/details?id=com.dts.freefireth",
-       "image" : "https://lh3.googleusercontent.com/KxIKOXKi9bJukZCQyzilpDqHL6f7WTcXgMQFo1IaJOhd6rrTdYONMvdewqnvivauTSGL"
+      "title" : "",
+       "image" : ""
      },
      {
-       "title" : "https://play.google.com/store/apps/details?id=com.supercell.clashofclans",
-       "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTG7d6USBHQVdf3EW1OqJr7oPkVtwqNTNYWIFSZ0jLsAqvOTJU"
-     },
+       "title" : "",
+       "image" : ""
+         },
 	 {
-		"title" : "https://play.google.com/store/apps/details?id=com.supercell.clashroyale",
-		"image" : "https://clashroyale.com/uploaded-images-blog/CR_facebook_share_02_180403_175322.jpg?mtime=20180403175322"
+		"title" : "",
+   		"image" : ""
 	 },
 	 {
-		"title" : "https://play.google.com/store/apps/details?id=com.tfgco.games.strategy.free.castlecrush",
-		"image" : "https://m.media-amazon.com/images/M/MV5BODllMDllOTQtOTg5ZC00OTc1LTg3ZjYtZjNhMWMxN2M0ZDdkXkEyXkFqcGdeQXVyNTI0MTI0OTY@._V1_.jpg"
+		"title" : "",
+   		"image" : ""
 	 },
 	 {
-		"title" : "https://play.google.com/store/apps/details?id=com.fungames.boomforce",
-		"image" : "https://dlandroid.com/wp-content/uploads/2017/05/Boom-Force-War-Game-for-Free-3-200x200.jpg"
+		"title" : "",
+   		"image" : ""
 	 }    
    ]
  }
