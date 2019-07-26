@@ -6,11 +6,15 @@
    [ 
      {
        "title" : "https://play.google.com/store/apps/details?id=com.batman.stickman.ropehero.crime.city",
-       "image" : "https://raw.githubusercontent.com/admiet/StickPromot/master/icon91.png"
+       "image" : "https://apktada.com/storage/images/com/batman/stickman/ropehero/crime/city/com.batman.stickman.ropehero.crime.city_1.png"
      },
      {
        "title" : "https://play.google.com/store/apps/details?id=com.immortality.black.panther.superhero.crime.city",
-       "image" : "https://raw.githubusercontent.com/admiet/StickPromot/master/ICON3.jpg"
+       "image" : "https://apktada.com/storage/images/com/immortality/black/panther/superhero/crime/city/com.immortality.black.panther.superhero.crime.city_1.png"
+     },
+     {
+       "title" : "https://play.google.com/store/apps/details?id=com.marvel.black.panther.superhero.avengers.thanos",
+	       "image" : "https://apktada.com/storage/images/com/marvel/black/panther/superhero/avengers/thanos/com.marvel.black.panther.superhero.avengers.thanos_1.png"
      },
      {
          },
