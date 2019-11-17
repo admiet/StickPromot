@@ -4,32 +4,34 @@
    "buttons" :
    [ 
      {
-       "title" : "https://play.google.com/store/apps/details?id=com.batman.stickman.ropehero.crime.city",
-       "image" : "https://1.bp.blogspot.com/-xtQg4D9jkC4/XWeWsNVm5qI/AAAAAAAAbnY/8wCgeTu6xPEC20uxieJau1T-gSYps1qqwCLcBGAs/s320/icon91.png"
+       "title" : "https://play.google.com/store/apps/details?id=com.stickman.Super.Saiyan.Goku.gangaster.RopeHero",
+       "image" : "https://raw.githubusercontent.com/admiet/StickPromot/master/1.png"
      },
      {
-       "title" : "https://play.google.com/store/apps/details?id=com.immortality.black.panther.superhero.crime.city",
-       "image" : "https://1.bp.blogspot.com/-p48chqLip-Q/XWeYQQmW84I/AAAAAAAAbns/QHr_rurTTQ07G_f2GazAOVHkYNMdLaC2gCLcBGAs/s320/iconnn.png"
+       "title" : "https://play.google.com/store/apps/details?id=com.stickman.Mummy.Ofroad.Vigascrime.ropehero",
+       "image" : "https://raw.githubusercontent.com/admiet/StickPromot/master/2.png"
      },
+     
      {
-       "title" : "https://play.google.com/store/apps/details?id=com.Canptain.America.stickman.ropehero.crime.gangster",
-       "image" : "https://1.bp.blogspot.com/-jeVX8aarbGc/XWeWbKOul1I/AAAAAAAAbnM/3-ettJ_xxCc-Hm4ozS2XG44-5A29Q4nYQCLcBGAs/s320/usCaptainICON.png"
+       "title" : "https://play.google.com/store/apps/details?id=com.stickman.ropehero.joker.miami.crime.hero",
+       "image" : "https://raw.githubusercontent.com/admiet/StickPromot/master/3.png"
      },
+     
      {
-       "title" : "https://play.google.com/store/apps/details?id=com.marvel.black.panther.superhero.avengers.thanos",
-       "image" : "phttps://1.bp.blogspot.com/-zrWRe2eCdk0/XWeW6X5az_I/AAAAAAAAbnc/NeHTY7Goi60ydFMA1w8X6QkFOkZJxujcwCLcBGAs/s320/PANTHER-STICK-ICON.png"
+       "title" : "https://play.google.com/store/apps/details?id=com.Joker.stickman.ropehero.joker2019.Jocker",
+       "image" : "https://raw.githubusercontent.com/admiet/StickPromot/master/4.png"
      },
 	 {
-		"title" : "https://play.google.com/store/apps/details?id=com.DeadPool.stickman.ropehero.crime.gangster.city",
-		"image" : "https://1.bp.blogspot.com/-XhG1gJtoGcE/XWeWVbeoVDI/AAAAAAAAbnI/nDm_LhiJFJoKWHSGjnAYQreDaFLK9GXVgCLcBGAs/s320/deadpoolICON2.png"
+		"title" : "https://play.google.com/store/apps/details?id=com.spidermen.stickman.ropehero.avengers.crime",
+		"image" : "https://raw.githubusercontent.com/admiet/StickPromot/master/5.png"
 	 },
 	 {
-		"title" : "https://play.google.com/store/apps/details?id=com.Canptain.America.stickman.ropehero.crime.gangster",
-		"image" : "https://1.bp.blogspot.com/-jeVX8aarbGc/XWeWbKOul1I/AAAAAAAAbnM/3-ettJ_xxCc-Hm4ozS2XG44-5A29Q4nYQCLcBGAs/s320/usCaptainICON.png"
+		"title" : "https://play.google.com/store/apps/details?id=com.multiPanther.stickman.ropehero.avengers.crime",
+		"image" : "https://raw.githubusercontent.com/admiet/StickPromot/master/6.png"
 	 },
 	 {
-		"title" : "https://play.google.com/store/apps/details?id=com.DeadPool.stickman.ropehero.crime.gangster.city",
-		"image" : "https://1.bp.blogspot.com/-XhG1gJtoGcE/XWeWVbeoVDI/AAAAAAAAbnI/nDm_LhiJFJoKWHSGjnAYQreDaFLK9GXVgCLcBGAs/s320/deadpoolICON2.png"
+		"title" : "https://play.google.com/store/apps/details?id=com.us.army.stickman.lantern.crime.gangaster.gta",
+		"image" : "https://raw.githubusercontent.com/admiet/StickPromot/master/8.png"
 	 }    
    ]
  }
